@@ -6,4 +6,3 @@ RUN curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-c
     chmod 755 /usr/local/bin/docker-compose
 
 
-CMD [""]
